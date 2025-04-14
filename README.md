@@ -1,6 +1,6 @@
 # Healthcare-Store-System 
 
-## Login DETAILS
+## Login DETAILS 
 <pre>USername : admin</pre>
 <pre>Password : admin</pre> 
 
